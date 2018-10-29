@@ -1,6 +1,6 @@
-# Realtek 8812AU/8821AU USB WiFi driver.
+# Realtek 8812AU/8821AU USB WiFi driver
 
-## Known Supported Devices:
+## Known Supported Devices
 
 * D-Link Wireless AC600 Dual Band High-Gain USB Adapter (Model: DWA-172)
 * COMFAST 1200Mbps USB Wireless Adapter (Model: CF-912AC)
